@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate as a Data Scientist
 - 📫 How to reach me-: https://www.linkedin.com/in/r-geethanjali-001a3623a/
--                       rgeethanjali43@gmaiol.com
+                     
 - 😄 Pronouns: Education is the most powerful weapon which you can use to change the world
   
 
