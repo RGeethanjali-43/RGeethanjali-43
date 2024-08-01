@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Geethanjali 
+- 👋 Hi, I’m **Geethanjali **
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate as a Data Scientist
 - 📫 How to reach me-: https://www.linkedin.com/in/r-geethanjali-001a3623a/
